@@ -1,0 +1,6 @@
+id,word,meaning,translated_word,translated_meaning,example,translated_example,language,type,audio_file,transcript,contributor,timestamp,verified
+1,Namaste,Hello/Greeting,Hello,Hello/Greeting,"Namaste, kaise ho?","Hello, how are you?",Hindi,Word,,,System,2025-08-22T11:11:49.103207,True
+2,Dhanyavaad,Thank you,Thank you,Thank you,Dhanyavaad aapka,Thank you,Hindi,Word,,,System,2025-08-22T11:11:49.103207,True
+3,Kya haal hai,How are you?,How are you?,How are you?,Kya haal hai dost?,How are you friend?,Hindi,Phrase,,,System,2025-08-22T11:11:49.103207,True
+4,Acha,Good,Good,Good,Acha lag raha hai,It feels good,Hindi,Word,,,System,2025-08-22T11:11:49.103207,True
+5,Shukriya,Thank you,Thank you,Thank you,Shukriya aapka,Thank you,Hindi,Word,,,System,2025-08-22T11:11:49.103207,True
